@@ -4,7 +4,9 @@ Pascal bindings for GLib/GObject and GTK4, generated from
 [GObject Introspection](https://gi.readthedocs.io/) (GIR) data.
 
 **Repository:** <https://github.com/pasgtk/pasgobject>
+
 **License:** LGPL 3.0 or later
+
 **Successor to:** [pasgtk4](https://github.com/AnmiTaliDev/pasgtk4) (no longer maintained)
 
 ---
