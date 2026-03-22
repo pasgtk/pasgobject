@@ -1,0 +1,33 @@
+# Meson build directories
+build/
+_build/
+builddir/
+
+# Free Pascal compiler output
+*.o
+*.ppu
+*.a
+*.rst
+*.rsj
+*.compiled
+
+# Lazarus IDE files
+*.lpi
+*.lps
+*.lpr.bak
+*.lrs
+*.res
+*.ico
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig

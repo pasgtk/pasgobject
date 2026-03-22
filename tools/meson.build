@@ -1,0 +1,1 @@
+subdir('gir2pas')

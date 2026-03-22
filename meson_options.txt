@@ -1,0 +1,14 @@
+option('build_examples',
+  type        : 'boolean',
+  value       : true,
+  description : 'Build the example programs')
+
+option('build_tests',
+  type        : 'boolean',
+  value       : true,
+  description : 'Build and register the test programs')
+
+option('build_gtk4',
+  type        : 'boolean',
+  value       : true,
+  description : 'Build the GTK4 bindings (requires gtk4)')
